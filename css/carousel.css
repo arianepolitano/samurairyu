@@ -14,7 +14,7 @@ body {
 
 /* Classe base do carousel */
 .carousel {
-    margin-bottom: 4rem;
+    /*margin-bottom: 4rem;*/
 }
 
 /* Já que usamos posicionamento de imagens, precisaremos fazer alguns ajustes na legenda */
