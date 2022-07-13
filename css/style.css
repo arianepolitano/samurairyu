@@ -2,3 +2,13 @@
     color: #777;
     font-size: 25px;
 }
+
+.hr-topo {
+    margin-top: 0;
+    margin-bottom: 70px;
+    border: 0;
+    border-top-color: currentcolor;
+    border-top-style: none;
+    border-top-width: 0px;
+    border-top: 5px solid rgb(114, 23, 22);
+}
